@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlinkingEffect</string>
+    <string name="text">Click the button for the Animation</string>
+
+</resources>
